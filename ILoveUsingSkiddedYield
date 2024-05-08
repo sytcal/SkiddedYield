@@ -1,5 +1,5 @@
 if SY and not _G.SY == true then
-	-- error("Infinite Yield is already running!", 0)
+	-- error("Skidded Yield is already running!", 0)
 	return
 end
 
